@@ -1,0 +1,6 @@
+numpy>=2.0
+pandas>=2.0
+scikit-learn>=1.4
+plotly>=5.22
+ipykernel>=6.29
+nbformat>=4.2.0
